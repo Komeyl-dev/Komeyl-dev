@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Komeyl</h1>
 <h3 align="center">A passionate developer from Iran </h3>
 </h3>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=komeylkalbali&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="komeylkalbali" />
-</p>
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komeylkalbali&hide_progress=true" alt="komeylkalbali" />
 </p>
